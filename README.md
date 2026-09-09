@@ -1,5 +1,5 @@
 # Trabalhos para a disciplina de Computação Evolucionista e Conexionista
-Para cada trabalho, há um artigo em pdf descrevendo a motivação e funcionamento em detalhes do algoritmo.
+Para cada trabalho, há um artigo em PDF descrevendo a motivação e funcionamento em detalhes do algoritmo. Os trabalhos podem ser encontrados nas suas respectivas pastas.
 
 ## Rede Neural: 
 Foi feita uma arquitetura de rede neural feedforward de uma única camada com função de ativação sigmóide, com uma taxa de aprendizado de 10^-2. Além disso, foi utilizado backpropagation e métrica de regressão RMSE. O algoritmo tem como saída um gráfico mostrando o erro ao decorrer das épocas.
